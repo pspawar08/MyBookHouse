@@ -62,9 +62,7 @@ Book Social Network is a full-stack application that enables users to manage the
 - OpenAPI Generator for Angular
 - Bootstrap
 
-## Learning Objectives
-
-By following this project, students will learn:
+## Objectives
 
 - Designing a class diagram from business requirements
 - Implementing a mono repo approach
@@ -94,7 +92,7 @@ To get started with the Book Social Network project, follow the setup instructio
 
 ## Contributors
 
-- [Ali Bouali](https://github.com/ali-bouali)
+- [Pruthviraj Pawar](https://github.com/pspawar08)
 
 ## Acknowledgments
 
