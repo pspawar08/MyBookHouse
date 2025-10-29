@@ -7,7 +7,7 @@
 - [Technologies Used](#technologies-used)
     - [Backend (book-social-network)](#backend-book-social-network)
     - [Frontend (book-social-network-ui)](#frontend-book-social-network-ui)
-- [Learning Objectives](#learning-objectives)
+- [Objectives](#learning-objectives)
 - [License](#license)
 - [Getting Started](#getting-started)
 - [Contributors](#contributors)
